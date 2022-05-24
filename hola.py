@@ -5,5 +5,6 @@ for i in a:
     if i == "o":
         lista.append(i)
 print(lista)
+c = "buenas tardes"
         
 
